@@ -36,10 +36,10 @@ face_recognition/
 ├── README.md
 ├── dataset/
 │   └── faces/
-│       ├── Aamir/
-│       ├── Ajay/
-│       ├── Akshay/
-│       ├── Alia/
+│       ├── Srikanth/
+│       ├── Pranhas/
+│       ├── AA/
+│       ├── Rashmika/
 │       └── ...
 
 📊 Dataset Description
