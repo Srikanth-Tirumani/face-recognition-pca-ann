@@ -37,7 +37,7 @@ face_recognition/
 ├── dataset/
 │   └── faces/
 │       ├── Srikanth/
-│       ├── Pranhas/
+│       ├── Prabhas/
 │       ├── AA/
 │       ├── Rashmika/
 │       └── ...
